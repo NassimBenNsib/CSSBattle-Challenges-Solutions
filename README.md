@@ -1,6 +1,9 @@
 # CSSBattle Challenges Solutions
 
 ### [Battle #26 - Initial](https://cssbattle.dev/battle/26)
+# CSSBattle Challenges Solutions
+
+### [Battle #26 - Initial](https://cssbattle.dev/battle/26)
 
 | Battle   | Challenge | Problem Link | Solution Link | Preview |
 |:--------:|:---------:|:------------:|:-------------:|:-------:|
